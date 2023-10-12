@@ -1,4 +1,4 @@
-# Voting System Contract
+## Voting System Contract
 
 This project is a basic smart contract for a voting system that allows only registered members to vote and deploy it on Swisstronik testnet.
 
